@@ -28,7 +28,7 @@ if __name__ == "__main__" :
     Warrior = Clinton(
         "@UPLOADER_X_BOT",
         bot_token=Config.BOT_TOKEN,
-        api_id=Config.APP_ID,
+        api_id=Config.API_ID,
         api_hash=Config.API_HASH,
         plugins=plugins)
     Warrior.run()
