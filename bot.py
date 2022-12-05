@@ -27,7 +27,7 @@ if __name__ == "__main__" :
     plugins = dict(root="plugins")
     Warrior = Clinton(
         "@UPLOADER_X_BOT",
-        bot_token=Config.TG_BOT_TOKEN,
+        bot_token=Config.BOT_TOKEN,
         api_id=Config.APP_ID,
         api_hash=Config.API_HASH,
         plugins=plugins)
