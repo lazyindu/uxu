@@ -1,7 +1,6 @@
 numpy
 Pillow
 yt-dlp
-aiohttp
 hachoir
 olefile
 filetype
@@ -12,4 +11,4 @@ dnspython
 motor[srv]
 beautifulsoup4
 pyrogram==1.4.12
-humanize
+
